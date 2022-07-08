@@ -2,7 +2,7 @@
 
 ## To-do List app
 
-> In this project, I built a simple HTML list of To Do tasks I achieve that by using webpack and served by a webpack dev server.
+> In this project, I built a simple To-do-List-App which adds and remove tasks using HTML/CSS to build the app and JavaScript to add functionalities to the app by using webpack dev server to display the app on a web server.
 
 ## Built With
 
